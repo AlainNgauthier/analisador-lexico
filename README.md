@@ -6,8 +6,12 @@ Trabalho realizado no âmbito da disciplina Construção de Compiladores - UFSCa
 - Java JDK 18.0.1.1 ou versão mais anterior
 - Apache NetBeans IDE 14
 
-### Execução
+### Compilacao e Execução
 
-Após o build do projeto, executar em um terminal o seguinte comando pra rodar o mesmo:
+- Utilize a ferramenta Clean and Build da IDE NetBeans para compilar o projeto.
+
+- Após o build do projeto, execute em um terminal o seguinte comando pra executar o mesmo:
 
       $ java -jar <caminho-do-diretorio-contendo-o-compilador>/target/trabcomp1-1.0-SNAPSHOT-jar-with-dependencies.jar <arquivo de entrada> <arquivo de saída>
+
+onde _trabcomp1-1.0-SNAPSHOT-jar-with-dependencies.jar_ é o executável do projeto.
