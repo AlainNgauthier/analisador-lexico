@@ -1,5 +1,4 @@
-## Trabalho 1 - Analisador Léxico
-Desenvolvimento de um analisador léxico para a linguagem LA. <br /> 
+## Trabalho 1 - Analisador Léxico 
 Trabalho realizado no âmbito da disciplina Construção de Compiladores - UFSCar 2022/1, <br /> pelo aluno **Alain Gauthier N. Djamba (725921)**.
 
 ### Requisitos
